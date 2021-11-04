@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AronGibsonOMDBApiLab", "AronGibsonOMDBApiLab\AronGibsonOMDBApiLab.csproj", "{0DA54606-746E-4CAA-9645-2DDA6AA20764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA54606-746E-4CAA-9645-2DDA6AA20764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA54606-746E-4CAA-9645-2DDA6AA20764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA54606-746E-4CAA-9645-2DDA6AA20764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA54606-746E-4CAA-9645-2DDA6AA20764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0720B994-DFD7-4D8C-8FA5-24EA392EA414}
+	EndGlobalSection
+EndGlobal

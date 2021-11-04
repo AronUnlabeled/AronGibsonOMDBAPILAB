@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lXZ/cZ1Vc2IuFqxRo10hgnieMgO/XR2N21T3a8dxiLARbsGKzF0LQXcbFcoNW693dXX7IV6yUlH1xNuEwhoRRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aron\\source\\repos\\AronGibsonOMDBApiLab\\AronGibsonOMDBApiLab\\AronGibsonOMDBApiLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aron\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
